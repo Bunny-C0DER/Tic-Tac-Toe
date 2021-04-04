@@ -1,2 +1,2 @@
 # Tic-Tac-Toe
-A python codealong project with the help of a course by Jose Portilla on Udemy.
+A python project created with the help of knowledge about Python code given by a Jose Portilla's course on Udemy.
